@@ -13,8 +13,8 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **ML/DL projects**
-- 🌱 Learning **Deep Learning**
+- 🔭 Currently working on **GenAI projects**
+- 🌱 Learning **GenAI and Agentic AI**
 - 💬 Ask me about **Python, Machine Learning, or AI**
 - 📫 Reach out: **yashrajkumar623@gmail.com**
 
